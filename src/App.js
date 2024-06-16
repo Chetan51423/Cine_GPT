@@ -1,10 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
+import Body from "./Components/Body";
+
 
 function App() {
   return (
-    <div className="App">
-      
+    <div className="bg-slate-500 text-yellow-300">
+      <Body/>
     </div>
   );
 }
